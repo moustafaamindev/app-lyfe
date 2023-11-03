@@ -1,0 +1,32 @@
+{
+  "dir": "ltr",
+  "hedingTitle": {
+    "titleMessage": "Our Message"
+  },
+  "links": {
+    "home": "Home",
+    "whoAreWe": "Who Are We",
+    "ourMessage": "Our Message",
+    "services": "Services",
+    "successPartners": "Success Partners",
+    "contactUs": "Contact Us"
+  },
+  "whoAre": {
+    "titleText": "WHO ARE WE ",
+    "descriptionText": "Lafat Trading Company for Self-Vending Machines is a leading Saudi company specialized in operating self-vending machines. The company has strong experience and relies on a professional cadre of experts with high experience and skill in operating self-vending machines. Thanks to this experience and a strong team, Lafat Trading Company for Self-Vending Machines has succeeded in leaving a strong mark and building a unique identity for itself, making it one of the best companies specialized in operating self-vending machines in the Kingdom of Saudi Arabia.",
+    "btnProfile": "Download Profile"
+  },
+
+  "ourVision": {
+    "titleVision": "Our Vision",
+    "descriptionVision": "At Trust LocationMachineryand EquipmentCorporation, we seek to achieveleadership in automating self-sales outlets and open the door to smart self-selling systems in the Kingdom of saudi Arabia."
+  },
+  "ourMessage": {
+    "titleMessage": "Our Message",
+    "descriptionMessage": "Wehave a responsibilityto choose the best designsthatsuit alltastesinorderto helpbrandsspread widely in a modern and aesthetic way."
+  },
+  "ourValue": {
+    "titleValue": "Our Value",
+    "descriptionValue": "Quality, credibility, integrity and transparency are our values that we always seek to apply throughout our products.Asthey are our guide in dealing with customers and institutions with the aim of providing productsthatleavea strong impactandalwayssatisfy our customers. "
+  }
+}
